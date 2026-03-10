@@ -164,7 +164,7 @@ class AdvisorDetailScreen extends StatelessWidget {
           _buildInfoRow(
             context,
             icon: Icons.school_outlined,
-            label: 'University',
+            label: 'High School',
             value: advisor.university,
           ),
         ],

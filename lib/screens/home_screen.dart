@@ -80,7 +80,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     ),
                   ),
                   Text(
-                    '${provider.universities.length} Universities',
+                    '${provider.universities.length} High Schools',
                     style: Theme.of(context).textTheme.bodySmall?.copyWith(
                       color: Colors.grey[600],
                     ),
@@ -118,7 +118,7 @@ class _HomeScreenState extends State<HomeScreen> {
         controller: _searchController,
         onChanged: (value) => provider.search(value),
         decoration: InputDecoration(
-          hintText: 'Search by name or university...',
+          hintText: 'Search by name or high school...',
           hintStyle: TextStyle(color: Colors.grey[400]),
           prefixIcon: Icon(Icons.search_rounded, color: Colors.grey[400]),
           suffixIcon: provider.isSearching
