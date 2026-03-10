@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Dr. Sarah Mitchell",
+    "email": "s.mitchell@harvard.edu",
+    "phone": "+1 617-495-1000",
+    "university": "Harvard University",
+    "description": "Dr. Mitchell specializes in STEM career pathways and graduate school preparation. With over 15 years of advising experience, she helps students navigate academic challenges and plan their futures.",
+    "image": "https://i.pravatar.cc/150?img=1"
+  },
+  {
+    "name": "Prof. James Carter",
+    "email": "j.carter@harvard.edu",
+    "phone": "+1 617-495-1001",
+    "university": "Harvard University",
+    "description": "Professor Carter focuses on humanities and social sciences advising. He is known for his personalized approach and deep knowledge of scholarship opportunities.",
+    "image": "https://i.pravatar.cc/150?img=2"
+  },
+  {
+    "name": "Dr. Emily Nguyen",
+    "email": "e.nguyen@mit.edu",
+    "phone": "+1 617-253-1000",
+    "university": "MIT",
+    "description": "Dr. Nguyen is a leading advisor in engineering and technology disciplines. She works closely with students on internship placements and research opportunities at MIT.",
+    "image": "https://i.pravatar.cc/150?img=3"
+  },
+  {
+    "name": "Dr. Robert Kim",
+    "email": "r.kim@mit.edu",
+    "phone": "+1 617-253-1002",
+    "university": "MIT",
+    "description": "Dr. Kim advises students in computer science and AI. He has strong industry connections and helps students transition from academia to top tech companies.",
+    "image": "https://i.pravatar.cc/150?img=4"
+  },
+  {
+    "name": "Prof. Linda Torres",
+    "email": "l.torres@stanford.edu",
+    "phone": "+1 650-723-2300",
+    "university": "Stanford University",
+    "description": "Professor Torres specializes in business and entrepreneurship advising. She has helped dozens of students launch successful startups through Stanford's accelerator programs.",
+    "image": "https://i.pravatar.cc/150?img=5"
+  },
+  {
+    "name": "Dr. Alan Brooks",
+    "email": "a.brooks@stanford.edu",
+    "phone": "+1 650-723-2301",
+    "university": "Stanford University",
+    "description": "Dr. Brooks is an expert in pre-med advising and biomedical research pathways. He guides students through medical school applications and research internships.",
+    "image": "https://i.pravatar.cc/150?img=6"
+  },
+  {
+    "name": "Dr. Maria Chen",
+    "email": "m.chen@yale.edu",
+    "phone": "+1 203-432-4771",
+    "university": "Yale University",
+    "description": "Dr. Chen advises students in law and political science. Her advising sessions focus on career clarity, internship strategy, and graduate program selection.",
+    "image": "https://i.pravatar.cc/150?img=7"
+  },
+  {
+    "name": "Prof. David Osei",
+    "email": "d.osei@yale.edu",
+    "phone": "+1 203-432-4772",
+    "university": "Yale University",
+    "description": "Professor Osei is a global education specialist helping international students adapt and excel at Yale. He is fluent in four languages and deeply committed to student success.",
+    "image": "https://i.pravatar.cc/150?img=8"
+  },
+  {
+    "name": "Dr. Jessica Patel",
+    "email": "j.patel@columbia.edu",
+    "phone": "+1 212-854-1754",
+    "university": "Columbia University",
+    "description": "Dr. Patel supports students in journalism, media, and communications. Based in New York City, she leverages strong industry networks for student internship placement.",
+    "image": "https://i.pravatar.cc/150?img=9"
+  },
+  {
+    "name": "Prof. Michael Zhang",
+    "email": "m.zhang@columbia.edu",
+    "phone": "+1 212-854-1755",
+    "university": "Columbia University",
+    "description": "Professor Zhang is a finance and economics advisor with a background in investment banking. He prepares students for competitive financial careers on Wall Street and beyond.",
+    "image": "https://i.pravatar.cc/150?img=10"
+  }
+]
