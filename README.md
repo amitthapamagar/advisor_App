@@ -48,7 +48,7 @@ assets/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Installation
 
 ### Prerequisites
 
