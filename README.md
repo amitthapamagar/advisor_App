@@ -60,7 +60,7 @@ assets/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/konnect.git
+   git clone https://github.com/amitthapamagar/advisor_App.git
    cd konnect
    ```
 
