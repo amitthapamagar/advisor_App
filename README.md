@@ -12,7 +12,7 @@ A Flutter mobile app that connects students with Academic Advisors across univer
 
 ## ✨ Features
 
-- 🏫 **University Listing** — Browse all universities with advisor counts
+- 🏫 **High School Listing** — Browse all high school with advisor counts
 - 🔍 **Smart Search** — Search advisors by name or university in real time
 - 👤 **Advisor Profiles** — View full profiles with photo, email, phone, and bio
 - 📞 **Contact Actions** — Quick Email and Call buttons on each profile
@@ -24,26 +24,26 @@ A Flutter mobile app that connects students with Academic Advisors across univer
 
 ```
 lib/
-├── main.dart                      # App entry point & routing
+├── main.dart                      
 ├── models/
-│   └── advisor.dart               # Advisor data model
+│   └── advisor.dart               
 ├── services/
-│   └── data_service.dart          # JSON loading & search logic
+│   └── data_service.dart          
 ├── providers/
-│   └── advisor_provider.dart      # State management (Provider)
+│   └── advisor_provider.dart      
 ├── screens/
-│   ├── home_screen.dart           # University list + search
-│   ├── advisors_screen.dart       # Advisors per university
-│   └── advisor_detail_screen.dart # Full advisor profile
+│   ├── home_screen.dart           
+│   ├── advisors_screen.dart       
+│   └── advisor_detail_screen.dart 
 └── widgets/
-    ├── university_card.dart        # University list card
-    └── advisor_card.dart           # Advisor list card
+    ├── university_card.dart        
+    └── advisor_card.dart 
 
 assets/
 ├── data/
-│   └── advisors.json              # Advisor data
+│   └── advisors.json              
 └── images/
-    └── logo.png                   # App logo
+    └── logo.png                   
 ```
 
 ---
@@ -53,8 +53,8 @@ assets/
 ### Prerequisites
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install) `>=3.0.0`
-- Android Studio or VS Code
-- Android Emulator or physical device
+- Android Studio
+- Android Emulator (Google Pixel 8a)
 
 ### Installation
 
@@ -96,7 +96,7 @@ Advisors are stored in `assets/data/advisors.json`. To add or edit advisors, fol
     "name": "Dr. Jane Smith",
     "email": "j.smith@university.edu",
     "phone": "+1 234-567-8900",
-    "university": "University Name",
+    "university": "High School Name / University",
     "description": "Brief bio about the advisor.",
     "image": "https://link-to-photo.com/photo.jpg"
   }

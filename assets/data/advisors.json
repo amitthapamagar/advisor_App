@@ -1,82 +1,130 @@
 [
   {
-    "name": "Dr. Sarah Mitchell",
-    "email": "s.mitchell@harvard.edu",
-    "phone": "+1 617-495-1000",
-    "university": "Harvard University",
-    "description": "Dr. Mitchell specializes in STEM career pathways and graduate school preparation. With over 15 years of advising experience, she helps students navigate academic challenges and plan their futures.",
+    "name": "Ms. Sarah Johnson",
+    "email": "s.johnson@lincolnhs.edu",
+    "phone": "+1 312-555-0101",
+    "university": "Lincoln High School",
+    "description": "Ms. Johnson has been a college and academic advisor at Lincoln High School for over 12 years. She specializes in college application strategies, SAT/ACT preparation, and scholarship opportunities for first-generation college students.",
     "image": "https://i.pravatar.cc/150?img=1"
   },
   {
-    "name": "Prof. James Carter",
-    "email": "j.carter@harvard.edu",
-    "phone": "+1 617-495-1001",
-    "university": "Harvard University",
-    "description": "Professor Carter focuses on humanities and social sciences advising. He is known for his personalized approach and deep knowledge of scholarship opportunities.",
+    "name": "Mr. David Williams",
+    "email": "d.williams@lincolnhs.edu",
+    "phone": "+1 312-555-0102",
+    "university": "Lincoln High School",
+    "description": "Mr. Williams focuses on career readiness and vocational pathways. He works closely with students exploring trade schools, apprenticeships, and community college programs as alternatives to four-year universities.",
     "image": "https://i.pravatar.cc/150?img=2"
   },
   {
-    "name": "Dr. Emily Nguyen",
-    "email": "e.nguyen@mit.edu",
-    "phone": "+1 617-253-1000",
-    "university": "MIT",
-    "description": "Dr. Nguyen is a leading advisor in engineering and technology disciplines. She works closely with students on internship placements and research opportunities at MIT.",
+    "name": "Dr. Angela Martinez",
+    "email": "a.martinez@roosevelths.edu",
+    "phone": "+1 213-555-0201",
+    "university": "Roosevelt High School",
+    "description": "Dr. Martinez is a bilingual academic advisor fluent in English and Spanish. She supports students from diverse backgrounds with personalized college counseling, FAFSA guidance, and mental health resources.",
     "image": "https://i.pravatar.cc/150?img=3"
   },
   {
-    "name": "Dr. Robert Kim",
-    "email": "r.kim@mit.edu",
-    "phone": "+1 617-253-1002",
-    "university": "MIT",
-    "description": "Dr. Kim advises students in computer science and AI. He has strong industry connections and helps students transition from academia to top tech companies.",
+    "name": "Mr. James Thompson",
+    "email": "j.thompson@roosevelths.edu",
+    "phone": "+1 213-555-0202",
+    "university": "Roosevelt High School",
+    "description": "Mr. Thompson has 8 years of experience helping students navigate the college admissions process. He specializes in STEM pathways, AP course selection, and connecting students with research internship opportunities.",
     "image": "https://i.pravatar.cc/150?img=4"
   },
   {
-    "name": "Prof. Linda Torres",
-    "email": "l.torres@stanford.edu",
-    "phone": "+1 650-723-2300",
-    "university": "Stanford University",
-    "description": "Professor Torres specializes in business and entrepreneurship advising. She has helped dozens of students launch successful startups through Stanford's accelerator programs.",
+    "name": "Ms. Patricia Lee",
+    "email": "p.lee@jeffersonhs.edu",
+    "phone": "+1 713-555-0301",
+    "university": "Jefferson High School",
+    "description": "Ms. Lee is a dedicated college counselor with a background in social work. She helps students overcome personal and academic challenges, and advocates strongly for students from underserved communities.",
     "image": "https://i.pravatar.cc/150?img=5"
   },
   {
-    "name": "Dr. Alan Brooks",
-    "email": "a.brooks@stanford.edu",
-    "phone": "+1 650-723-2301",
-    "university": "Stanford University",
-    "description": "Dr. Brooks is an expert in pre-med advising and biomedical research pathways. He guides students through medical school applications and research internships.",
+    "name": "Mr. Robert Garcia",
+    "email": "r.garcia@jeffersonhs.edu",
+    "phone": "+1 713-555-0302",
+    "university": "Jefferson High School",
+    "description": "Mr. Garcia specializes in athletic recruitment advising and academic eligibility for student athletes. He works with coaches and college recruiters to help students secure athletic scholarships.",
     "image": "https://i.pravatar.cc/150?img=6"
   },
   {
-    "name": "Dr. Maria Chen",
-    "email": "m.chen@yale.edu",
-    "phone": "+1 203-432-4771",
-    "university": "Yale University",
-    "description": "Dr. Chen advises students in law and political science. Her advising sessions focus on career clarity, internship strategy, and graduate program selection.",
+    "name": "Ms. Karen White",
+    "email": "k.white@washingtonhs.edu",
+    "phone": "+1 602-555-0401",
+    "university": "Washington High School",
+    "description": "Ms. White brings 15 years of academic advising experience. She is an expert in IB and AP curriculum planning and has helped hundreds of students gain admission to Ivy League and top-tier universities.",
     "image": "https://i.pravatar.cc/150?img=7"
   },
   {
-    "name": "Prof. David Osei",
-    "email": "d.osei@yale.edu",
-    "phone": "+1 203-432-4772",
-    "university": "Yale University",
-    "description": "Professor Osei is a global education specialist helping international students adapt and excel at Yale. He is fluent in four languages and deeply committed to student success.",
+    "name": "Mr. Brian Clark",
+    "email": "b.clark@washingtonhs.edu",
+    "phone": "+1 602-555-0402",
+    "university": "Washington High School",
+    "description": "Mr. Clark is a financial aid specialist who guides families through the complex process of funding higher education. He conducts regular FAFSA workshops and helps students identify local and national scholarship opportunities.",
     "image": "https://i.pravatar.cc/150?img=8"
   },
   {
-    "name": "Dr. Jessica Patel",
-    "email": "j.patel@columbia.edu",
-    "phone": "+1 212-854-1754",
-    "university": "Columbia University",
-    "description": "Dr. Patel supports students in journalism, media, and communications. Based in New York City, she leverages strong industry networks for student internship placement.",
+    "name": "Dr. Michelle Robinson",
+    "email": "m.robinson@kennedyhs.edu",
+    "phone": "+1 404-555-0501",
+    "university": "Kennedy High School",
+    "description": "Dr. Robinson is an experienced academic advisor with a doctorate in educational psychology. She focuses on helping students identify their strengths through career assessments and goal-setting workshops.",
     "image": "https://i.pravatar.cc/150?img=9"
   },
   {
-    "name": "Prof. Michael Zhang",
-    "email": "m.zhang@columbia.edu",
-    "phone": "+1 212-854-1755",
-    "university": "Columbia University",
-    "description": "Professor Zhang is a finance and economics advisor with a background in investment banking. He prepares students for competitive financial careers on Wall Street and beyond.",
+    "name": "Mr. Steven Adams",
+    "email": "s.adams@kennedyhs.edu",
+    "phone": "+1 404-555-0502",
+    "university": "Kennedy High School",
+    "description": "Mr. Adams is a former college admissions officer turned high school counselor. His insider knowledge of admissions processes gives students a competitive edge when applying to selective colleges.",
     "image": "https://i.pravatar.cc/150?img=10"
+  },
+  {
+    "name": "Ms. Jennifer Nguyen",
+    "email": "j.nguyen@madisonhs.edu",
+    "phone": "+1 503-555-0601",
+    "university": "Madison High School",
+    "description": "Ms. Nguyen specializes in advising students interested in healthcare and pre-med pathways. She organizes hospital shadowing programs and connects students with medical professionals for mentorship.",
+    "image": "https://i.pravatar.cc/150?img=11"
+  },
+  {
+    "name": "Mr. Christopher Hall",
+    "email": "c.hall@madisonhs.edu",
+    "phone": "+1 503-555-0602",
+    "university": "Madison High School",
+    "description": "Mr. Hall is a technology and entrepreneurship advisor who helps students explore careers in computer science, engineering, and business. He runs a student startup club and connects students with Silicon Valley mentors.",
+    "image": "https://i.pravatar.cc/150?img=12"
+  },
+  {
+    "name": "Ms. Lisa Anderson",
+    "email": "l.anderson@hamiltonhs.edu",
+    "phone": "+1 206-555-0701",
+    "university": "Hamilton High School",
+    "description": "Ms. Anderson is a compassionate advisor known for her open-door policy. She works with students on time management, study skills, and emotional well-being alongside academic and college planning.",
+    "image": "https://i.pravatar.cc/150?img=13"
+  },
+  {
+    "name": "Mr. Daniel Harris",
+    "email": "d.harris@hamiltonhs.edu",
+    "phone": "+1 206-555-0702",
+    "university": "Hamilton High School",
+    "description": "Mr. Harris focuses on arts and performing arts college pathways. He helps students build strong portfolios and audition materials for top arts programs and conservatories across the country.",
+    "image": "https://i.pravatar.cc/150?img=14"
+  },
+  {
+    "name": "Dr. Sandra Brown",
+    "email": "s.brown@franklinhs.edu",
+    "phone": "+1 617-555-0801",
+    "university": "Franklin High School",
+    "description": "Dr. Brown has advised over 1,000 students throughout her 20-year career. She is particularly skilled at helping students write compelling personal statements and essays for college applications.",
+    "image": "https://i.pravatar.cc/150?img=15"
+  },
+  {
+    "name": "Mr. Kevin Wilson",
+    "email": "k.wilson@franklinhs.edu",
+    "phone": "+1 617-555-0802",
+    "university": "Franklin High School",
+    "description": "Mr. Wilson is a military and ROTC pathway advisor. He provides guidance for students considering service academies such as West Point and the Naval Academy, as well as ROTC scholarship opportunities.",
+    "image": "https://i.pravatar.cc/150?img=16"
   }
 ]
