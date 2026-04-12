@@ -9,8 +9,8 @@ A Flutter mobile app that connects students with Academic Advisors across univer
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="assets/images/screenshot_1.png.png" alt="Home Screen" width="45%" />
-  <img src="assets/images/screenshot_2.png.png" alt="Advisor List Screen" width="45%" />
+  <img src="assets/images/screenshot_1.png" alt="Home Screen" width="45%" />
+  <img src="assets/images/screenshot_2.png" alt="Advisor List Screen" width="45%" />
 </div>
 
 <br/>
