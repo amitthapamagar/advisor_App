@@ -4,12 +4,14 @@ class UniversityCard extends StatelessWidget {
   final String universityName;
   final int advisorCount;
   final VoidCallback onTap;
+  final String? logoUrl;
 
   const UniversityCard({
     super.key,
     required this.universityName,
     required this.advisorCount,
     required this.onTap,
+    this.logoUrl,
   });
 
   // Generate a consistent color based on university name

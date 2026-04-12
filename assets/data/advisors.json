@@ -1,130 +1,52 @@
 [
   {
-    "name": "Ms. Sarah Johnson",
-    "email": "s.johnson@lincolnhs.edu",
-    "phone": "+1 312-555-0101",
-    "university": "Lincoln High School",
-    "description": "Ms. Johnson has been a college and academic advisor at Lincoln High School for over 12 years. She specializes in college application strategies, SAT/ACT preparation, and scholarship opportunities for first-generation college students.",
-    "image": "https://i.pravatar.cc/150?img=1"
+    "name": "Ms. Teresa Kennison",
+    "email": "stkennison@atoka.org",
+    "phone": "+1 580-889-3368",
+    "universityLogo": "https://cmsv2-assets.apptegy.net/uploads/18257/file/2743563/small_24e59d50-71be-4b2c-bf02-37372a30a0ac.png",
+    "university": "705-Atoka High School",
+    "image": "https://core-docs.s3.amazonaws.com/atoka_public_schools__ar/directory/2191884/small_28d39b54-3ac5-4b7f-8d5f-1e50c37ed99d.png"
   },
   {
-    "name": "Mr. David Williams",
-    "email": "d.williams@lincolnhs.edu",
-    "phone": "+1 312-555-0102",
-    "university": "Lincoln High School",
-    "description": "Mr. Williams focuses on career readiness and vocational pathways. He works closely with students exploring trade schools, apprenticeships, and community college programs as alternatives to four-year universities.",
-    "image": "https://i.pravatar.cc/150?img=2"
+    "name": "Ms. Leslie Manion",
+    "email": "lmanion@atoka.org",
+    "phone": "+1 580-324-4152",
+    "university": "705-Atoka High School",
+    "image": "https://core-docs.s3.amazonaws.com/atoka_public_schools__ar/directory/2192027/small_000fd8ef-251c-46b4-9657-8e298b9be500.png"
   },
   {
-    "name": "Dr. Angela Martinez",
-    "email": "a.martinez@roosevelths.edu",
-    "phone": "+1 213-555-0201",
-    "university": "Roosevelt High School",
-    "description": "Dr. Martinez is a bilingual academic advisor fluent in English and Spanish. She supports students from diverse backgrounds with personalized college counseling, FAFSA guidance, and mental health resources.",
-    "image": "https://i.pravatar.cc/150?img=3"
+    "name": "Ms. Trisha Swift",
+    "email": "tswift@atoka.org",
+    "phone": "+1 580-889-3464",
+    "university": "705-Atoka High School",
+    "image": "https://core-docs.s3.amazonaws.com/atoka_public_schools__ar/directory/2191980/small_54410c53-2f36-431e-84fa-6b6382f587c7.png"
   },
   {
-    "name": "Mr. James Thompson",
-    "email": "j.thompson@roosevelths.edu",
-    "phone": "+1 213-555-0202",
-    "university": "Roosevelt High School",
-    "description": "Mr. Thompson has 8 years of experience helping students navigate the college admissions process. He specializes in STEM pathways, AP course selection, and connecting students with research internship opportunities.",
-    "image": "https://i.pravatar.cc/150?img=4"
+    "name": "Ms. Shanna Weber",
+    "email": "",
+    "phone": "+1 580-625-3444",
+    "university": "Beaver Public Schools",
+    "image": "https://core-docs.s3.amazonaws.com/beaver_public_schools_ar/directory/1458063/small_d2e0c6fb-b9bf-4016-b66d-27831912e34e.png"
   },
   {
-    "name": "Ms. Patricia Lee",
-    "email": "p.lee@jeffersonhs.edu",
-    "phone": "+1 713-555-0301",
-    "university": "Jefferson High School",
-    "description": "Ms. Lee is a dedicated college counselor with a background in social work. She helps students overcome personal and academic challenges, and advocates strongly for students from underserved communities.",
-    "image": "https://i.pravatar.cc/150?img=5"
+    "name": "Mr. Brett Rorabaugh",
+    "email": "brorabaugh@turpinps.org",
+    "phone": "+1 580-778-3333",
+    "university": "Turpin Public School",
+    "image": "https://core-docs.s3.amazonaws.com/turpin_public_school_ar/directory/310341/small_a6c9c409-c074-4582-82b1-66f51aa3dede.png"
   },
   {
-    "name": "Mr. Robert Garcia",
-    "email": "r.garcia@jeffersonhs.edu",
-    "phone": "+1 713-555-0302",
-    "university": "Jefferson High School",
-    "description": "Mr. Garcia specializes in athletic recruitment advising and academic eligibility for student athletes. He works with coaches and college recruiters to help students secure athletic scholarships.",
-    "image": "https://i.pravatar.cc/150?img=6"
+    "name": "Ms. Kelly Kane",
+    "email": "",
+    "phone": "",
+    "university": "Durant High School",
+    "image": "https://www.durantisd.org/uploaded/faculty/908089.jpg"
   },
   {
-    "name": "Ms. Karen White",
-    "email": "k.white@washingtonhs.edu",
-    "phone": "+1 602-555-0401",
-    "university": "Washington High School",
-    "description": "Ms. White brings 15 years of academic advising experience. She is an expert in IB and AP curriculum planning and has helped hundreds of students gain admission to Ivy League and top-tier universities.",
-    "image": "https://i.pravatar.cc/150?img=7"
-  },
-  {
-    "name": "Mr. Brian Clark",
-    "email": "b.clark@washingtonhs.edu",
-    "phone": "+1 602-555-0402",
-    "university": "Washington High School",
-    "description": "Mr. Clark is a financial aid specialist who guides families through the complex process of funding higher education. He conducts regular FAFSA workshops and helps students identify local and national scholarship opportunities.",
-    "image": "https://i.pravatar.cc/150?img=8"
-  },
-  {
-    "name": "Dr. Michelle Robinson",
-    "email": "m.robinson@kennedyhs.edu",
-    "phone": "+1 404-555-0501",
-    "university": "Kennedy High School",
-    "description": "Dr. Robinson is an experienced academic advisor with a doctorate in educational psychology. She focuses on helping students identify their strengths through career assessments and goal-setting workshops.",
-    "image": "https://i.pravatar.cc/150?img=9"
-  },
-  {
-    "name": "Mr. Steven Adams",
-    "email": "s.adams@kennedyhs.edu",
-    "phone": "+1 404-555-0502",
-    "university": "Kennedy High School",
-    "description": "Mr. Adams is a former college admissions officer turned high school counselor. His insider knowledge of admissions processes gives students a competitive edge when applying to selective colleges.",
-    "image": "https://i.pravatar.cc/150?img=10"
-  },
-  {
-    "name": "Ms. Jennifer Nguyen",
-    "email": "j.nguyen@madisonhs.edu",
-    "phone": "+1 503-555-0601",
-    "university": "Madison High School",
-    "description": "Ms. Nguyen specializes in advising students interested in healthcare and pre-med pathways. She organizes hospital shadowing programs and connects students with medical professionals for mentorship.",
-    "image": "https://i.pravatar.cc/150?img=11"
-  },
-  {
-    "name": "Mr. Christopher Hall",
-    "email": "c.hall@madisonhs.edu",
-    "phone": "+1 503-555-0602",
-    "university": "Madison High School",
-    "description": "Mr. Hall is a technology and entrepreneurship advisor who helps students explore careers in computer science, engineering, and business. He runs a student startup club and connects students with Silicon Valley mentors.",
-    "image": "https://i.pravatar.cc/150?img=12"
-  },
-  {
-    "name": "Ms. Lisa Anderson",
-    "email": "l.anderson@hamiltonhs.edu",
-    "phone": "+1 206-555-0701",
-    "university": "Hamilton High School",
-    "description": "Ms. Anderson is a compassionate advisor known for her open-door policy. She works with students on time management, study skills, and emotional well-being alongside academic and college planning.",
-    "image": "https://i.pravatar.cc/150?img=13"
-  },
-  {
-    "name": "Mr. Daniel Harris",
-    "email": "d.harris@hamiltonhs.edu",
-    "phone": "+1 206-555-0702",
-    "university": "Hamilton High School",
-    "description": "Mr. Harris focuses on arts and performing arts college pathways. He helps students build strong portfolios and audition materials for top arts programs and conservatories across the country.",
-    "image": "https://i.pravatar.cc/150?img=14"
-  },
-  {
-    "name": "Dr. Sandra Brown",
-    "email": "s.brown@franklinhs.edu",
-    "phone": "+1 617-555-0801",
-    "university": "Franklin High School",
-    "description": "Dr. Brown has advised over 1,000 students throughout her 20-year career. She is particularly skilled at helping students write compelling personal statements and essays for college applications.",
-    "image": "https://i.pravatar.cc/150?img=15"
-  },
-  {
-    "name": "Mr. Kevin Wilson",
-    "email": "k.wilson@franklinhs.edu",
-    "phone": "+1 617-555-0802",
-    "university": "Franklin High School",
-    "description": "Mr. Wilson is a military and ROTC pathway advisor. He provides guidance for students considering service academies such as West Point and the Naval Academy, as well as ROTC scholarship opportunities.",
-    "image": "https://i.pravatar.cc/150?img=16"
+    "name": "Ms. Shana Thiel",
+    "email": "",
+    "phone": "+1 405-262-5647",
+    "university": "Maple School District",
+    "image": "https://core-docs.s3.amazonaws.com/maple_school_district_ar/directory/1443733/small_8c9d313b-6dea-4fa5-97f1-d6c32e81d7d3.png"
   }
 ]
