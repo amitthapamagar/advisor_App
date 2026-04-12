@@ -6,9 +6,17 @@ A Flutter mobile app that connects students with Academic Advisors across univer
 
 ## 📱 Screenshots
 
-> _Add screenshots here once the app is running_
+## 📱 Screenshots
 
----
+<div align="center">
+  <img src="assets/images/screenshot_1.png.png" alt="Home Screen" width="45%" />
+  <img src="assets/images/screenshot_2.png.png" alt="Advisor List Screen" width="45%" />
+</div>
+
+<br/>
+
+- **Left:** Home screen showing list of high schools with search functionality.
+- **Right:** Advisor listing screen displaying available advisors for a selected school.
 
 ## ✨ Features
 
